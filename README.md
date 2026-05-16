@@ -76,4 +76,3 @@ http://localhost:3000
 
 ---
 
-## ✨ ساخته شده با عشق توسط mehdimaroufi 
